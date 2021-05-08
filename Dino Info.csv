@@ -1,14 +1,14 @@
 ﻿Dinosaur,Diet,Territorial/Passive,Flying/land
-Triceratops,Herbavore,Passive,Land
-Stegosaurus,Herbavore,Passive,Land
+Triceratops,Herbivore,Passive,Land
+Stegosaurus,Herbivore,Territorial,Land
 Pteranadon,Carnivore,Territorial,Flying
 Dimorphadon,Carnivore,Passive,Flying
 Spinosaurus,Carnivore,Territorial,Land
 Tyrannosaurus Rex,Carnivore,Territorial,Land
-Ankylosaurus,Herbavore,Passive,Land
-Diplodacus,Herbavore,Territorial,Land
-Dodo Bird,Herbavore,Territorial,Land
-Parasaursaphus,Hebavore,Passive,Land
+Ankylosaurus,Herbivore,Passive,Land
+Diplodacus,Herbivore,Territorial,Land
+Dodo Bird,Herbivore,Territorial,Land
+Parasaursaphus,Herbivore,Passive,Land
 Raptor,Carnivore,Passive,Land
 Quetzalcoatalus,Carnivore,Passive,Flying
 Sarcosuchus,Carnivore,Passive,Land
